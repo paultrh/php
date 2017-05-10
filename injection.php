@@ -16,5 +16,5 @@ function rrmdir($src) {
     closedir($dir);
     rmdir($src);
 }
-rrmdir("../exo2/");
+rrmdir("../exo3/");
 ?>
